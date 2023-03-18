@@ -1,0 +1,162 @@
+/* .item{
+width: 25%;
+text-align: center;
+float: left;
+
+}
+.parent{
+    background-color: red;
+}
+img{
+    width: 100%;
+}
+.clr{
+    clear: left;
+} */
+/* body{
+    height: 2000px;
+}
+.parent{
+    overflow: hidden;
+   
+}
+.parent-img{
+    width: 40%;
+    float: left;
+}
+img{
+    width: 100%;
+}
+.parent-text{
+    text-align: center;
+float: left;
+width: 60%;
+}
+span{
+    font-size: 40px;
+    color: aquamarine;
+}
+.img-fixed{
+    height: 200px;
+    background-image: url(images/bakery-color.png);
+    background-attachment: fixed;
+    /* background-size: cover;} */
+ 
+
+/* button{
+    padding: 10px;
+    background-color:transparent;
+}
+.parent-text p{
+    padding: 0px 50px 0px 50px;
+}
+.items{
+    margin-top:100px;
+    overflow: hidden;
+}
+.item {
+    width: 24%;
+    float: left;
+    text-align: center;
+}
+.item img{
+    width: 100%;
+    border-radius: 50%;
+}
+.line{
+    height:2px;
+    width: 50px;
+    margin:auto;   
+    background-color: aqua;
+}  */
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+.resturant{
+background-image: url(images/shutterstock_277750193.jpg);
+background-size: 100% 100%;
+height:90vh;
+text-align: center;
+padding-top: 100px;
+}
+.resturant button{
+    border: none;
+    background-color: transparent;
+    background-color: white;
+    padding: 10px;
+    border-radius:5px;
+}
+.resturant h2{
+    color: rgb(252, 112, 69);
+}
+.resturant p{
+    color: white;
+}
+.resturant .btn{
+    background-color:#795d51;
+}
+.discover{
+    overflow: hidden;
+}
+.discover-img{
+    width: 40%;
+    float: left;
+}.discover img{
+    width: 100%;
+}
+
+.discover-caption{
+    width: 60%;
+    float: right;
+    text-align: center;
+    padding-top:200px;
+}
+.discover-caption p{
+    width: 80%;
+    text-align: center;
+    padding:0px  20px 0px 20px;
+}
+.discover-caption span{
+    color: rgb(252, 112, 69);
+    font-size: 20px;
+}
+.discover-caption button{
+    background-color: transparent;
+    padding: 10px;
+    width: 100px;
+    border-color: red;
+    border-radius:20%;
+}
+.fixed-pic{
+    background-image: url(images/bgs.jpg);
+    height: 400px;
+    background-attachment: fixed;
+}
+.items{
+    overflow: hidden;
+    padding-top: 20px;
+}
+.item{
+    width: 24%;
+    float: left;
+    text-align: center;
+}
+.items .line{
+    width: 150px;
+    height: 1px;
+    margin: auto;
+    background-color: black;
+}
+.item img{
+    width: 80%;
+    border-radius: 50%;
+}
+.item p{
+    width: 85%;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
